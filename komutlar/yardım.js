@@ -27,6 +27,7 @@ const EmbedFwhyCode = new Discord.MessageEmbed()
 > :airplane: **Aktif discord.js sürümüm: v12.2.0**
 
 **» Bağlantılar** 
+**[Github : https://github.com/PlutonLib/Discord-Bot]
 **[Developer : Plü#0851]**
 `)
  
