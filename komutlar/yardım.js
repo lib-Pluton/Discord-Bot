@@ -12,13 +12,12 @@ const EmbedFwhyCode = new Discord.MessageEmbed()
 ▬▬▬▬▬▬[ :red_circle: **Tüm Komutlar** :red_circle: ]▬▬▬▬▬▬
 
 > **» ?afk :** Sunucuda tekrar mesaj yazana kadar afk kalırsınız.
-> **» ?atatürk :** Komutu yazdığınız kanala Atatürk resmi atar.
+> **» ?atatürk :** Komutu yazdığınız kanala Atatürk resmi atar. --> Yakında birden çok gif ve fotoğraftan oluşan bir komut olacak.
 > **» ?ping :** Pinginizi öğrenebilirsiniz.
 > **» ?avatar :** Etiketlediğiniz kullanıcının avatarını gösterir.
 > **» ?id :** Etiketlediğiniz kişinin idsini öğrenirsiniz.
 > **» ?nuke :** Kanalı silip tekrar açar. [Beta]
 > **» ?say :** Sunucudaki online üyeleri, botları, offline üyeleri sayar.
-> **» ?sorusor :** Bota soru sorabilirsin.
 > **» ?tersyazı :** Yazdığınız yazıyı tersine çevirir.
 > **» ?sunucuresmi :** Sunucu resmini gösterir.
 
